@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="core" target="1.8" />
-      <module name="course" target="1.8" />
+      <module name="course" target="11" />
       <module name="devdojo-microservices" target="1.8" />
     </bytecodeTargetLevel>
   </component>
