@@ -19,3 +19,5 @@ Dcore/src/main/java/academy/devdojo/youtube/core/CoreApplication.java,1\2\127a7
 acourse/src/main/java/com/academy/devdojo/youtube/course/endpoint/controller/CourseController.java,1\6\161bd27b18b3764978e43139d5bfb05e0b460804
 }
 Mcourse/src/main/java/com/academy/devdojo/youtube/course/CouseApplication.java,1\e\1ead030380b28c8673ef62060a0a45bd8db257f0
+y
+Icourse/src/main/java/academy/devdojo/youtube/course/CouseApplication.java,7\a\7aafff9ead6faf282f9bdeea19d240d013a9d25b

@@ -1,4 +1,4 @@
-package com.academy.devdojo.youtube.course.endpoint.service;
+package academy.devdojo.youtube.course.endpoint.service;
 
 import academy.devdojo.youtube.core.model.Course;
 import academy.devdojo.youtube.core.repository.CourseRepository;
